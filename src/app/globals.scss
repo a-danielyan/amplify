@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700;800&display=swap");
+@import "./variable.scss";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  font-family: "Karla", sans-serif;
+}
+
+.container {
+  height: 100vh;
+  background-color: rgb(26, 26, 26);
+  color: white;
+}
